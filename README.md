@@ -14,7 +14,7 @@ Simply fork this repo (there's a 'fork' button up above), edit the files under t
 
 Other Steps
 -----------
-There aren't any... but maybe we can some extra steps.
+There aren't any... but if you're bored, we can suggest some extra steps.
 
 * After deploying, be sure to check out the local Salsa Dance classes.
 * Rub your tummy vigorously. Alternatively, [rub your cat's tummy vigorously][7].
