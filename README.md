@@ -10,15 +10,15 @@ This is an app that's deployable in one-click to Bushido, a robust and completel
         
 Customizing and deployment
 --------------------------
-Simply for this repo (there's a 'fork' button up above), and copy your git url into the box at [http://bushi.do/][1]. You can even edit it in your browser via GitHub's interface!
+Simply fork this repo (there's a 'fork' button up above), edit the files under the public/ folder, and copy your git url into the box at [http://bushi.do/][1]. You can even edit it in your browser via GitHub's interface!
 
 Other Steps
 -----------
 There aren't any... but maybe we can some extra steps.
 
- *   After deploying, be sure to check out the local Salsa Dance classes.
- *   Rub your tummy vigorously. Alternatively, [rub your cat's tummy vigorously][7].
- *   Nothing, just use your app!
+* After deploying, be sure to check out the local Salsa Dance classes.
+* Rub your tummy vigorously. Alternatively, [rub your cat's tummy vigorously][7].
+* Nothing, just use your app!
 
 Examples
 --------
