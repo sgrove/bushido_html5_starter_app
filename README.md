@@ -16,9 +16,9 @@ Other Steps
 -----------
 There aren't any... but maybe we can some extra steps.
 
-    1.) After deploying, be sure to check out the local Salsa Dance classes.
-    2.) Rub your tummy vigorously. Alternatively, [rub your cat's tummy vigorously][7].
-    3.) Nothing, just use your app!
+ *   After deploying, be sure to check out the local Salsa Dance classes.
+ *   Rub your tummy vigorously. Alternatively, [rub your cat's tummy vigorously][7].
+ *   Nothing, just use your app!
 
 Examples
 --------
