@@ -2,7 +2,11 @@ Bushido HTML5 Starter APP
 ============================================================
 About
 -----
-This is an app that's deployable in one-click to Bushido, a robust and completely open hosting platform for Rails 2, Rails 3, Sinatra, and of course, HTML5 apps.
+This is an app that's deployable in one-click to Bushido, a robust and completely open hosting platform for
+    Rails 2
+    Rails 3
+    Sinatra
+    HTML5 apps, of course :)
         
 Customizing and deployment
 --------------------------
@@ -12,13 +16,13 @@ Other Steps
 -----------
 There aren't any... but maybe we can some extra steps.
 
-1.) After deploying, be sure to check out the local Salsa Dance classes.
-2.) Rub your tummy vigorously. Alternatively, [rub your cat's tummy vigorously][7].
-3.) Nothing, just use your app!
+    1.) After deploying, be sure to check out the local Salsa Dance classes.
+    2.) Rub your tummy vigorously. Alternatively, [rub your cat's tummy vigorously][7].
+    3.) Nothing, just use your app!
 
 Examples
 --------
-Here are the famous HTML5 rocks slides deployed on Bushido - [link][2], [repo][3]
+Here are the famous HTML5 rocks slides deployed on Bushido - [link][2] | [repo][3]
 
 Questions?
 ----------
@@ -28,6 +32,7 @@ Shoot me an email, I'm s at bushi.do, and happy to help out.
 Thanks
 ------
 [Paul Irish][4] - Awesome HTML5 Boilerplate resource
+
 [Divya Manian][5] - Same
 
 [The HTML5 Rocks Team][6] - For a great example of how nice HTML5 apps can be (and how easy they can be to deploy!)
