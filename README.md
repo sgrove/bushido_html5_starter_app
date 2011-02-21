@@ -41,7 +41,7 @@ License
 -------
 Released under MIT license
 
-  [1]: http://wolfewebservices.com/blog/testing-multiple-browsers-selenium-and-cucumber
+  [1]: http://bushi.do/
   [2]: http://focused-cha-10.bushi.do/html5.html#landing-slide
   [3]: https://github.com/sgrove/bushido_loves_html5
   [4]: http://paulirish.com/
